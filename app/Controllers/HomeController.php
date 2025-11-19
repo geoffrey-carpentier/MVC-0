@@ -32,7 +32,7 @@ class HomeController extends BaseController
     {
     
         $this->render('home/about', [
-            'title' => ucfirst('à propos de nous')     // ucfirst --> Met la première lettre en majuscule
+            'title' => ucfirst('À propos de nous')     // ucfirst --> Met la première lettre en majuscule (ne fonctionne pas ici ^^ donc alt+951 = À) 
         ]);
     }
 }
