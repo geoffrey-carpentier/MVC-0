@@ -1,0 +1,16 @@
+{
+    "name": "gca/mvc-mini",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Core\\": "core/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Geoffrey CARPENTIER",
+            "email": "geoffrey.carpentier@laplateforme.io"
+        }
+    ],
+    "require": {}
+}
