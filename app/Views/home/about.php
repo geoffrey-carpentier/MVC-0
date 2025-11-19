@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Vue : Page d'accueil
  * ---------------------
@@ -15,5 +16,5 @@
 
 <!-- Exemple d'amélioration : proposer un lien vers la liste des articles -->
 <p>
-  <a href="/index">Retour à l'accueil</a>
+  <a href="/">Retour à l'accueil</a>
 </p>
